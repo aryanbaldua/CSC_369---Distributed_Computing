@@ -1,0 +1,10 @@
+2, Apple MacBook Pro 14-inch, 1999.0
+100, Apple MacBook Pro 14-inch, 1999.0
+6, Dell XPS 15 Laptop, 1749.99
+30, Asus ROG Zephyrus G14 Laptop, 1599.99
+29, HP Spectre x360 Laptop, 1399.99
+1, Samsung 65-inch 4K QLED TV, 1299.99
+28, Microsoft Surface Pro 9, 1299.99
+99, Samsung 65-inch 4K QLED TV, 1299.99
+4, Apple iPhone 15 Pro, 999.0
+5, Samsung Galaxy S24, 799.99
