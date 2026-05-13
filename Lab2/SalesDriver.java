@@ -22,6 +22,9 @@ public class SalesDriver {
         FileInputFormat.addInputPath(job, new Path(args[0]));
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
-        System.exit(job.waitForCompletion(true) ? 0 : 1);
+        long t0 = System.currentTimeMillis();
+        boolean ok = job.waitForCompletion(true);
+        System.out.println("Hadoop elapsed: " + (System.currentTimeMillis() - t0) + " ms");
+        System.exit(ok ? 0 : 1);
     }
 }

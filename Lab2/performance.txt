@@ -1,0 +1,2 @@
+Hadoop: 319230 ms
+Java:   168 ms

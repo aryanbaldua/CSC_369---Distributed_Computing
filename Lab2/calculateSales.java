@@ -22,6 +22,8 @@ public class calculateSales {
 
     public static void main(String[] args) throws IOException {
         String path = "../Lab1/sales.txt";
+
+        long t0 = System.nanoTime();
         List<Map.Entry<String, Integer>> result = getSalesByDate(path);
 
         BufferedWriter bw = new BufferedWriter(new FileWriter("javaoutput.txt"));
@@ -30,5 +32,6 @@ public class calculateSales {
             bw.newLine();
         }
         bw.close();
+        System.out.println("Java elapsed: " + (System.nanoTime() - t0) / 1_000_000 + " ms");
     }
 }
