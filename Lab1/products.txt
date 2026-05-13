@@ -1,0 +1,100 @@
+1, Samsung 65-inch 4K QLED TV, 1299.99
+2, Apple MacBook Pro 14-inch, 1999.00
+3, Sony WH-1000XM5 Headphones, 349.99
+4, Apple iPhone 15 Pro, 999.00
+5, Samsung Galaxy S24, 799.99
+6, Dell XPS 15 Laptop, 1749.99
+7, Apple iPad Air, 599.00
+8, LG 27-inch 4K Monitor, 449.99
+9, Bose QuietComfort 45 Headphones, 279.99
+10, Nintendo Switch OLED, 349.99
+11, PlayStation 5 Console, 499.99
+12, Xbox Series X, 499.99
+13, Canon EOS R50 Camera, 679.99
+14, Nikon Z30 Camera, 759.95
+15, GoPro HERO12 Black, 399.99
+16, Apple Watch Series 9, 399.00
+17, Garmin Forerunner 265, 449.99
+18, Fitbit Charge 6, 159.95
+19, Amazon Echo Dot 5th Gen, 49.99
+20, Google Nest Hub Max, 229.99
+21, Apple AirPods Pro 2nd Gen, 249.00
+22, Samsung Galaxy Buds2 Pro, 179.99
+23, Anker Soundcore Liberty 4, 99.99
+24, Kindle Paperwhite 11th Gen, 139.99
+25, Amazon Fire HD 10 Tablet, 149.99
+26, Logitech MX Master 3S Mouse, 99.99
+27, Logitech MX Keys Keyboard, 109.99
+28, Microsoft Surface Pro 9, 1299.99
+29, HP Spectre x360 Laptop, 1399.99
+30, Asus ROG Zephyrus G14 Laptop, 1599.99
+31, Razer BlackWidow V4 Keyboard, 159.99
+32, SteelSeries Arctis Nova Pro Headset, 249.99
+33, Corsair Vengeance RGB RAM 32GB, 109.99
+34, Samsung 990 Pro SSD 2TB, 179.99
+35, WD Black SN850X SSD 1TB, 119.99
+36, Seagate Backup Plus 4TB HDD, 89.99
+37, TP-Link AXE5400 WiFi 6E Router, 249.99
+38, Netgear Orbi 960 Mesh WiFi, 699.99
+39, Eero Pro 6E Mesh Router, 299.99
+40, Philips Hue Starter Kit, 199.99
+41, Ring Video Doorbell Pro 2, 249.99
+42, Arlo Pro 4 Security Camera, 199.99
+43, iRobot Roomba j7+ Robot Vacuum, 599.99
+44, Dyson V15 Detect Vacuum, 749.99
+45, Shark IQ Robot Vacuum, 399.99
+46, Instant Pot Duo 7-in-1, 99.95
+47, Ninja Foodi 9-in-1 Air Fryer, 199.99
+48, KitchenAid Stand Mixer, 449.99
+49, Breville Barista Express Espresso, 699.95
+50, Nespresso Vertuo Next Coffee Maker, 159.00
+51, Cuisinart 14-Cup Food Processor, 199.99
+52, Vitamix E310 Explorian Blender, 349.95
+53, Keurig K-Cafe Coffee Maker, 179.99
+54, Weber Spirit II E-310 Gas Grill, 499.00
+55, Traeger Pro 575 Pellet Grill, 799.99
+56, Coleman 54-Qt Steel Belted Cooler, 149.99
+57, Yeti Tundra 45 Cooler, 349.99
+58, Hydro Flask 32oz Water Bottle, 49.95
+59, Stanley Adventure Quencher 40oz, 44.99
+60, The North Face Apex Flex Jacket, 199.00
+61, Columbia Bugaboo II Fleece Jacket, 169.99
+62, Patagonia Nano Puff Vest, 149.00
+63, Levi's 501 Original Fit Jeans, 69.50
+64, Nike Air Max 270 Sneakers, 150.00
+65, Adidas Ultraboost 22 Shoes, 189.99
+66, New Balance 990v5 Shoes, 174.99
+67, Timberland 6-inch Premium Boots, 198.00
+68, Seiko 5 Sports Automatic Watch, 249.99
+69, Casio G-Shock GA2100 Watch, 99.99
+70, Ray-Ban Wayfarer Sunglasses, 193.00
+71, Oakley Holbrook Sunglasses, 196.00
+72, Samsonite Checked Luggage 28-inch, 279.99
+73, Away The Carry-On Suitcase, 295.00
+74, Osprey Farpoint 40 Travel Pack, 179.99
+75, Thule Crossover 2 Backpack 30L, 209.95
+76, Ergotron LX Desk Monitor Arm, 159.99
+77, BenQ PD2705U 4K Monitor, 549.99
+78, VIVO Dual Monitor Stand, 59.99
+79, Elgato Stream Deck MK.2, 149.99
+80, Blue Yeti USB Microphone, 129.99
+81, Elgato 4K60 Pro MK.2 Capture Card, 199.99
+82, Anker 737 Power Bank 24000mAh, 149.99
+83, Mophie Powerstation USB-C XXL, 99.95
+84, Belkin MagSafe 3-in-1 Charger, 149.99
+85, Anker 65W 4-Port USB-C Charger, 45.99
+86, Cable Matters USB-C Hub 11-in-1, 64.99
+87, Tile Mate Bluetooth Tracker 4-Pack, 59.99
+88, Apple AirTag 4-Pack, 99.00
+89, Roku Streaming Stick 4K, 49.99
+90, Amazon Fire TV Stick 4K Max, 59.99
+91, Chromecast with Google TV 4K, 49.99
+92, Epson EcoTank ET-4850 Printer, 349.99
+93, Brother HL-L2350DW Laser Printer, 129.99
+94, HP DeskJet 4155e Printer, 84.99
+95, Fujifilm Instax Mini 12 Camera, 79.99
+96, Polaroid Now+ Instant Camera, 149.99
+97, Leatherman Wave+ Multi-Tool, 109.95
+98, Victorinox Swiss Army Knife, 49.99
+99, Samsung 65-inch 4K QLED TV, 1299.99
+100, Apple MacBook Pro 14-inch, 1999.00

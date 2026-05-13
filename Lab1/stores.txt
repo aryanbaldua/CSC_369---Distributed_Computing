@@ -1,0 +1,100 @@
+1, Vista Store, 1648 Aspen St, Tacoma, 98401, WA, 905 318 2519
+2, Beacon Shop, 6102 Magnolia Blvd, Arlington, 76001, TX, 632 656 8170
+3, Crown Zone, 3300 Sequoia Pl, Providence, 02901, RI, 243 241 5030
+4, Diamond Plaza, 3946 Harbor Pl, Chicago, 60601, IL, 885 417 8727
+5, Capital Outlet, 3113 Birch Cir, Santa Ana, 92701, CA, 823 937 3975
+6, Sterling Plaza, 435 University Dr, Santa Ana, 92701, CA, 640 958 5756
+7, Vista World, 4313 Jackson Ave, Fontana, 92335, CA, 497 619 9552
+8, Super Express, 6594 Pecan Cir, Houston, 77001, TX, 899 990 9501
+9, Crown Zone, 6173 Linden Pl, Lexington, 40501, KY, 425 293 2200
+10, Metro Store, 7842 Cottonwood Dr, El Paso, 79901, TX, 944 598 6479
+11, Liberty Source, 823 Market Cir, Gilbert, 85233, AZ, 429 976 1476
+12, Diamond World, 7940 Sycamore Cir, Norfolk, 23501, VA, 511 509 6246
+13, Cornerstone Shop, 846 Mountain Rd, Reno, 89501, NV, 631 870 3806
+14, Cornerstone Center, 8179 Liberty Way, Raleigh, 27601, NC, 323 452 5332
+15, Apex Store, 7433 Eagle Blvd, Baton Rouge, 70801, LA, 838 932 4672
+16, United Depot, 8742 Walnut Dr, Buffalo, 14201, NY, 827 921 4923
+17, Royal Store, 2278 Prairie Rd, Buffalo, 14201, NY, 230 635 9021
+18, Elite Mart, 599 Alder Ave, Lubbock, 79401, TX, 841 884 7996
+19, Vista World, 9965 Cardinal St, Mesa, 85201, AZ, 829 891 6324
+20, Royal Mart, 5308 Highland Ave, Madison, 53701, WI, 396 329 5342
+21, Heritage Zone, 2010 Willow Ln, St. Louis, 63101, MO, 736 345 7492
+22, Summit Gallery, 4393 Park Way, Pittsburgh, 15201, PA, 779 789 8943
+23, Crown Express, 7609 Oak Way, Arlington, 76001, TX, 669 977 8122
+24, Super Express, 1080 Poplar Dr, San Luis Obispo, 93401, CA, 548 694 9305
+25, Keystone Place, 6483 Church Ct, Birmingham, 35201, AL, 511 843 6673
+26, Beacon Source, 6293 Sparrow Rd, Cincinnati, 45201, OH, 217 318 2347
+27, National Exchange, 5687 Highland Dr, Yonkers, 10701, NY, 986 486 7431
+28, Atlantic Hub, 6421 Cedar Ave, Tucson, 85701, AZ, 875 393 5245
+29, Central Depot, 3253 Heritage Cir, Gilbert, 85233, AZ, 615 531 8358
+30, Pacific Buy, 1016 Plum Rd, Seattle, 98101, WA, 307 299 2206
+31, Royal Buy, 6988 Sequoia St, Long Beach, 90801, CA, 786 406 9643
+32, Apex Plaza, 8499 Colonial Rd, Boston, 02101, MA, 666 419 7788
+33, Elite World, 8440 Falcon Cir, Charlotte, 28201, NC, 307 637 4963
+34, Cornerstone Mart, 1493 Park Cir, Fort Wayne, 46801, IN, 466 960 8569
+35, Crown Outlet, 2666 Pecan Ct, Chicago, 60601, IL, 784 274 3243
+36, Royal Direct, 7613 Mountain St, Gilbert, 85233, AZ, 405 294 9509
+37, United Gallery, 9429 Canyon Pl, Yonkers, 10701, NY, 648 993 9741
+38, American Source, 996 Elm Dr, San Diego, 92101, CA, 786 909 2794
+39, Liberty Source, 3611 Laurel Blvd, Mesa, 85201, AZ, 559 318 8224
+40, American Mart, 4756 Sparrow Cir, Kansas City, 64101, MO, 612 207 2732
+41, Beacon Warehouse, 4180 Sunrise Pl, New York, 10001, NY, 965 626 1596
+42, Vista Direct, 9541 River Ave, Oklahoma City, 73101, OK, 766 529 3894
+43, City Hub, 2902 Lake Blvd, Los Angeles, 90001, CA, 602 487 1992
+44, Cornerstone Direct, 1921 Cherry St, Anchorage, 99501, AK, 429 455 9876
+45, Liberty Center, 7792 Poplar Dr, Memphis, 38101, TN, 347 743 2978
+46, Beacon Hub, 9741 Plum Blvd, Garland, 75040, TX, 631 537 6688
+47, Diamond Express, 6208 Sparrow Dr, Lubbock, 79401, TX, 849 448 8193
+48, Elite Express, 8675 Ridge Way, Denver, 80201, CO, 753 654 2969
+49, Super Hub, 386 Sequoia Cir, Minneapolis, 55401, MN, 504 900 4054
+50, United Place, 5385 Peach Way, Baton Rouge, 70801, LA, 801 321 4402
+51, Best Gallery, 2960 Sunset Rd, Little Rock, 72201, AR, 264 441 9638
+52, Cornerstone Mart, 8767 Juniper Cir, Scottsdale, 85250, AZ, 897 343 6174
+53, Pacific Center, 2244 Cottonwood Rd, Omaha, 68101, NE, 606 294 7480
+54, Elite Depot, 3026 Cherry Way, Mesa, 85201, AZ, 748 730 6367
+55, Heritage Express, 9316 Pine St, Portland, 97201, OR, 234 604 3713
+56, Super Express, 124 Lake Dr, Birmingham, 35201, AL, 476 691 2823
+57, Vista World, 178 Heritage Ln, Boston, 02101, MA, 819 233 2174
+58, Metro Mart, 657 Willow Ave, New York, 10001, NY, 475 268 8834
+59, City Place, 7231 Elm Rd, Pittsburgh, 15201, PA, 538 742 6664
+60, Sterling Shop, 4730 Juniper Ct, Rochester, 14601, NY, 775 613 7411
+61, Atlantic Mart, 9809 Highland St, San Antonio, 78201, TX, 274 727 5748
+62, Elite Hub, 780 Magnolia Pl, Louisville, 40201, KY, 692 914 8087
+63, Super Plaza, 2008 Beech Ave, Milwaukee, 53201, WI, 537 253 1588
+64, Liberty Warehouse, 612 Sunrise Blvd, Jacksonville, 32099, FL, 489 244 4649
+65, Royal Shop, 1563 Walnut Pl, Plano, 75023, TX, 350 751 4794
+66, Royal Source, 6743 Ocean Dr, Santa Ana, 92701, CA, 645 515 1443
+67, Capital Market, 4962 Park Blvd, Providence, 02901, RI, 546 659 9043
+68, Beacon Depot, 5235 Jackson Way, Fremont, 94536, CA, 482 606 8829
+69, Beacon Zone, 4973 Mountain Dr, San Bernardino, 92401, CA, 373 975 7199
+70, Diamond Shop, 3062 Pine Rd, Seattle, 98101, WA, 590 241 7137
+71, Summit Gallery, 499 Pecan Way, Glendale, 91201, CA, 594 791 3759
+72, Choice Center, 7959 College Way, Glendale, 91201, CA, 327 233 5959
+73, Choice Gallery, 5372 Monroe St, Dallas, 75201, TX, 418 607 1084
+74, Value Mart, 2135 Falcon Pl, San Bernardino, 92401, CA, 529 298 9267
+75, Best Zone, 4787 Beech Ct, Glendale, 85301, AZ, 390 883 8111
+76, Apex Hub, 5628 Cherry Ave, Lincoln, 68501, NE, 861 789 5999
+77, Premier Place, 6392 Starlight Ave, Los Angeles, 90001, CA, 428 731 2987
+78, Capital Market, 4784 Sparrow Way, Seattle, 98101, WA, 338 795 7587
+79, Apex Plaza, 6149 Madison Ave, Scottsdale, 85250, AZ, 956 456 9859
+80, United Zone, 2125 Pine Ln, Henderson, 89002, NV, 750 461 4281
+81, City Direct, 6742 Alder Ct, Tampa, 33601, FL, 908 796 7980
+82, Sterling Market, 5655 Oak Way, Charlotte, 28201, NC, 588 532 7613
+83, United Hub, 6837 Liberty Way, Milwaukee, 53201, WI, 699 482 1388
+84, Value Gallery, 9349 Cypress Ln, Lincoln, 68501, NE, 716 603 8361
+85, Pacific Warehouse, 6839 Ocean Ln, Glendale, 91201, CA, 412 483 5953
+86, Atlantic Market, 1106 Linden St, Oklahoma City, 73101, OK, 401 390 6755
+87, Liberty Warehouse, 9529 Elm Rd, Mesa, 85201, AZ, 685 536 7849
+88, Heritage World, 6351 Lincoln Cir, San Luis Obispo, 93401, CA, 769 218 1066
+89, Capital Shop, 2543 Aspen Rd, Kansas City, 64101, MO, 330 546 3505
+90, Super Zone, 1106 Valley St, Glendale, 91201, CA, 252 616 1803
+91, Best Mart, 9703 Ridge Pl, Long Beach, 90801, CA, 682 515 3206
+92, Royal Warehouse, 4953 Liberty Dr, Glendale, 91201, CA, 271 615 5121
+93, Diamond Place, 797 Jefferson St, Santa Ana, 92701, CA, 459 648 4241
+94, Vista Mart, 8211 Washington Blvd, Portland, 97201, OR, 535 345 4328
+95, Vista Exchange, 6104 Jefferson Way, Arlington, 76001, TX, 752 538 4391
+96, Cornerstone Place, 2092 Alder Dr, Durham, 27701, NC, 971 816 4144
+97, National World, 7850 Cottonwood Rd, Seattle, 98101, WA, 780 329 2929
+98, Premier Market, 5326 Market Rd, Denver, 80201, CO, 964 703 7099
+99, Elite Shop, 318 Canyon Pl, Durham, 27701, NC, 206 904 2722
+100, Apex Zone, 3023 University Blvd, Omaha, 68101, NE, 848 878 6121
